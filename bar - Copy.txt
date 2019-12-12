@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+bar
+hahaha
+gogogo
+=======
+bar
+>>>>>>> parent of f8d456b... update: bar.txt → bar hahaha
